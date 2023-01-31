@@ -1,0 +1,3481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Processus vente - produit service - événement - intervention.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 7086.6148 3543.307"
+   height="1000mm"
+   width="2000mm">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="570.75169"
+     inkscape:cx="4224.396"
+     inkscape:zoom="0.22848602"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,2490.945)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <rect
+       y="-1367.6923"
+       x="3648.2153"
+       height="33.578693"
+       width="104.36623"
+       id="rect4152"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156"
+       y="-1352.8732"
+       x="3699.8689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1352.8732"
+         x="3699.8689"
+         id="tspan4158"
+         sodipodi:role="line">Receptionner</tspan><tspan
+         id="tspan4368"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1337.8732"
+         x="3699.8689"
+         sodipodi:role="line">demande</tspan></text>
+    <rect
+       y="-1209.3735"
+       x="2485.5046"
+       height="26.428572"
+       width="82.142868"
+       id="rect4152-1"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-1276.2206"
+       x="3668.5208"
+       height="32.142857"
+       width="59.285713"
+       id="rect4250"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-1162.5774"
+       x="5105.8076"
+       height="26.428572"
+       width="82.142868"
+       id="rect4152-1-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-4"
+       inkscape:connection-start="#rect4152"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4287"
+       d="m 3752.5816,-1350.9029 1394.2975,0 v 188.3255"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6"
+       y="-1227.8673"
+       x="2476.9177"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1227.8673"
+         x="2479.3054"
+         id="tspan4158-8-0-5"
+         sodipodi:role="line">Tiers </tspan><tspan
+         id="tspan4307-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1212.8673"
+         x="2476.9177"
+         sodipodi:role="line">connu</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-5"
+       y="-1112.9055"
+       x="5192.0815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1112.9055"
+         x="5194.4692"
+         id="tspan4158-8-0-5-1"
+         sodipodi:role="line">Tiers </tspan><tspan
+         id="tspan4307-5-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1097.9055"
+         x="5192.0815"
+         sodipodi:role="line">inconnu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351"
+       d="m 2513.7296,-1277.8733 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-0"
+       d="m 5134.8874,-1215.9248 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3"
+       y="-1144.363"
+       x="5106.1812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1"
+         y="-1144.363"
+         x="5106.1812"
+         id="tspan4158-8"
+         sodipodi:role="line">Créer tiers</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-1205.1417"
+       x="4010.6414"
+       height="49.315449"
+       width="35.042049"
+       id="rect4250-0"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-2"
+       y="216.79747"
+       x="207.40955"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1"
+         y="216.79747"
+         x="207.40955"
+         id="tspan4158-8-6"
+         sodipodi:role="line"> </tspan></text>
+    <rect
+       y="-1093.1411"
+       x="1914.681"
+       height="37.035175"
+       width="114.97283"
+       id="rect4152-1-42"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1"
+       y="-1117.6378"
+       x="1882.791"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4307-5-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1117.6378"
+         x="1882.791"
+         sodipodi:role="line">Produit/service</tspan><tspan
+         id="tspan4469"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1102.6378"
+         x="1882.791"
+         sodipodi:role="line">connu</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42"
+       inkscape:connection-start="#rect4152-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4507"
+       d="m 2485.5046,-1196.1592 h -513.3372 v 103.0181"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6"
+       d="m 1962.0744,-1147.4808 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-909.70941"
+       x="911.39972"
+       height="37.035175"
+       width="114.97283"
+       id="rect4152-1-42-80"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9"
+       d="m 959.0455,-979.58007 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42"
+       y="-956.25476"
+       x="915.01105"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-956.25476"
+         x="915.01105"
+         sodipodi:role="line">Prix fixe</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5"
+       y="-960.11548"
+       x="2316.0989"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-960.11548"
+         x="2316.0989"
+         sodipodi:role="line">Prix variable</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1"
+       inkscape:connection-start="#rect4152"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4687"
+       d="M 3648.2153,-1350.9029 H 2526.5761 v 141.5294"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-start="#rect4152-1-42"
+       inkscape:connection-end="#rect4152-1-42-80"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4689"
+       d="M 1914.681,-1074.6235 H 968.88614 v 164.91409"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-1036.4463"
+       x="1943.5272"
+       height="32.142857"
+       width="59.285713"
+       id="rect4250-0-2"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4"
+       y="-893.74823"
+       x="964.05841"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-893.74823"
+         x="964.05841"
+         id="tspan4158-8-3-7"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-878.74823"
+         x="964.05841"
+         sodipodi:role="line">commande</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-1170.6951"
+       x="2511.3586"
+       height="49.315449"
+       width="35.042049"
+       id="rect4250-0-4"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-943.84827"
+       x="3050.9817"
+       height="37.035175"
+       width="114.97283"
+       id="rect4152-1-42-2"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-2"
+       inkscape:connection-start="#rect4152-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4776"
+       d="m 2567.6475,-1196.1592 h 540.8207 v 252.31093"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-4-5"
+       y="-1092.4208"
+       x="3186.9963"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4307-5-9-9-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1092.4208"
+         x="3186.9963"
+         sodipodi:role="line">Produit/service</tspan><tspan
+         id="tspan4469-2-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1077.4208"
+         x="3186.9963"
+         sodipodi:role="line">inconnu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-0-2-3"
+       d="m 3088.6121,-1153.1388 32.2952,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.37254632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-1043.3861"
+       x="4664.1079"
+       height="37.035175"
+       width="114.97283"
+       id="rect4152-1-42-5"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-1035.3049"
+       x="5869.4727"
+       height="37.035175"
+       width="131.13527"
+       id="rect4152-1-42-2-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-2-8"
+       inkscape:connection-start="#rect4152-1-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4820"
+       d="m 5187.9505,-1149.3631 h 747.0898 v 114.0582"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-5"
+       inkscape:connection-start="#rect4152-1-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4822"
+       d="m 5105.8076,-1149.3631 h -384.2133 v 105.977"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-1114.3024"
+       x="5107.7554"
+       height="32.142857"
+       width="59.285713"
+       id="rect4250-3"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-46"
+       y="-1006.8672"
+       x="4657.2773"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4307-5-9-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1006.8672"
+         x="4657.2773"
+         sodipodi:role="line">Produit/service</tspan><tspan
+         id="tspan4469-20"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-991.86719"
+         x="4657.2773"
+         sodipodi:role="line">connu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-5"
+       d="m 4714.3372,-1095.8888 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-4-5-4"
+       y="-964.96973"
+       x="6012.7666"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4307-5-9-9-1-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-964.96973"
+         x="6012.7666"
+         sodipodi:role="line">Produit/service</tspan><tspan
+         id="tspan4469-2-2-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-949.96973"
+         x="6012.7666"
+         sodipodi:role="line">inconnu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-0-2-3-0"
+       d="m 5918.4225,-1080.8536 32.2951,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.37254632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-56"
+       y="-1017.5875"
+       x="5934.0884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1017.5875"
+         x="5934.0884"
+         id="tspan4158-8-5"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4893"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-1002.5875"
+         x="5934.0884"
+         sodipodi:role="line">produit/service</tspan></text>
+    <rect
+       y="-939.21918"
+       x="2196.439"
+       height="37.035179"
+       width="114.97284"
+       id="rect4152-1-42-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7"
+       inkscape:connection-start="#rect4152-1-42"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4928"
+       d="m 2029.6539,-1074.6235 h 224.2715 v 135.40432"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4"
+       d="m 2244.1871,-1011.4178 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5"
+       y="-923.02545"
+       x="2249.8867"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-923.02545"
+         x="2249.8867"
+         id="tspan4158-8-3-7-1"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-908.02545"
+         x="2249.8867"
+         sodipodi:role="line">Devis</tspan></text>
+    <text
+       id="text4156-3-5-4-5-0"
+       y="-926.58972"
+       x="3104.1758"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-926.58972"
+         x="3104.1758"
+         id="tspan4158-8-3-7-1-2"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-0-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-911.58972"
+         x="3104.1758"
+         sodipodi:role="line">Devis</tspan></text>
+    <rect
+       y="-787.06915"
+       x="2758.0637"
+       height="37.035179"
+       width="170.68713"
+       id="rect4152-1-42-80-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-787.06915"
+       x="3241.8569"
+       height="37.035183"
+       width="164.97285"
+       id="rect4152-1-42-7-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-2"
+       inkscape:connection-start="#rect4152-1-42-80-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5007"
+       d="m 2843.4074,-787.06915 v -138.26153 h 207.5743"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7-5"
+       inkscape:connection-start="#rect4152-1-42-2"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5009"
+       d="m 3165.9545,-925.33068 158.3889,0 v 138.26153"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-892.48206"
+       x="3072.0896"
+       height="32.14286"
+       width="59.285717"
+       id="rect4250-0-2-4"
+       style="opacity:1;fill:none;fill-opacity:0.194915;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9"
+       d="m 2835.7238,-859.80544 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-59"
+       y="-805.64392"
+       x="2791.689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-805.64392"
+         x="2791.689"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5056"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-790.64392"
+         x="2791.689"
+         sodipodi:role="line">accepté</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6"
+       y="-792.15552"
+       x="3380.1025"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5058"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-792.15552"
+         x="3380.1025"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5062"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-777.15552"
+         x="3380.1025"
+         sodipodi:role="line">refusé</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-4"
+       d="m 3316.7622,-862.13334 h 17.1429"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-7"
+       y="-770.87543"
+       x="2847.033"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-770.87543"
+         x="2847.033"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-755.87543"
+         x="2847.033"
+         sodipodi:role="line">du devis sur accepté</tspan></text>
+    <text
+       id="text4156-3-5-4-5-7-2"
+       y="-771.20099"
+       x="3323.1465"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-771.20099"
+         x="3323.1465"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-756.20099"
+         x="3323.1465"
+         sodipodi:role="line">du devis sur refusé</tspan></text>
+    <rect
+       y="-754.37177"
+       x="1912.661"
+       height="37.035183"
+       width="170.68715"
+       id="rect4152-1-42-80-8-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-754.37177"
+       x="2396.4543"
+       height="37.035187"
+       width="164.97287"
+       id="rect4152-1-42-7-5-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-859.78461"
+       x="2226.687"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-4-1"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7"
+       d="m 1990.321,-827.10797 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-59-9"
+       y="-790.05518"
+       x="1946.2865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-4-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-790.05518"
+         x="1946.2865"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5056-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-775.05518"
+         x="1946.2865"
+         sodipodi:role="line">accepté</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-6"
+       y="-776.56665"
+       x="2534.7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5058-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-776.56665"
+         x="2534.7"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5062-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-761.56665"
+         x="2534.7"
+         sodipodi:role="line">refusé</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-4-9"
+       d="m 2471.3594,-829.43587 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-7-4"
+       y="-738.17792"
+       x="2001.6304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-738.17792"
+         x="2004.0181"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-723.17792"
+         x="2001.6304"
+         sodipodi:role="line">du devis sur accepté</tspan></text>
+    <text
+       id="text4156-3-5-4-5-7-2-4"
+       y="-738.50348"
+       x="2477.7439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-9-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-738.50348"
+         x="2480.1316"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-0-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-723.50348"
+         x="2477.7439"
+         sodipodi:role="line">du devis sur refusé</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-7"
+       inkscape:connection-start="#rect4152-1-42-80-8-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5173"
+       d="m 1998.0046,-754.37177 0,-166.32982 h 198.4344"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7-5-8"
+       inkscape:connection-start="#rect4152-1-42-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5175"
+       d="m 2311.4118,-920.70159 h 167.529 v 166.32982"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-419.14755"
+       x="904.02612"
+       height="37.035179"
+       width="143.54427"
+       id="rect4152-1-42-80-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4"
+       y="-403.51547"
+       x="972.92651"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-403.51547"
+         x="975.31421"
+         sodipodi:role="line">Classer </tspan><tspan
+         id="tspan5238"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-388.51547"
+         x="972.92651"
+         sodipodi:role="line">commande livrée</tspan></text>
+    <rect
+       y="-253.28256"
+       x="906.88318"
+       height="37.035183"
+       width="143.54428"
+       id="rect4152-1-42-80-9-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0"
+       inkscape:connection-start="#rect4152-1-42-80-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5255"
+       d="m 976.11723,-382.11237 2.21912,128.82981"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0"
+       y="-294.74097"
+       x="856.61768"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-294.74097"
+         x="856.61768"
+         sodipodi:role="line">Commande classée livrée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8"
+       d="m 970.41999,-319.3643 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9"
+       y="-230.95859"
+       x="975.78357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-230.95859"
+         x="975.78357"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8"
+       y="-127.99355"
+       x="683.35803"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-127.99355"
+         x="683.35803"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0"
+       d="m 761.44609,-146.2533 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-60.425507"
+       x="698.31183"
+       height="37.035187"
+       width="143.5443"
+       id="rect4152-1-42-80-9-0-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8"
+       y="-36.015533"
+       x="768.6333"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-36.015533"
+         x="768.6333"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="-60.425507"
+       x="1038.3118"
+       height="37.035191"
+       width="252.11575"
+       id="rect4152-1-42-80-9-0-1-2"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1"
+       inkscape:connection-start="#rect4152-1-42-80-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5370"
+       d="M 906.88318,-234.76497 H 770.08398 V -60.425507"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2"
+       inkscape:connection-start="#rect4152-1-42-80-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5372"
+       d="m 1050.4275,-234.76497 h 113.9421 v 174.339463"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-197.97922"
+       x="939.01245"
+       height="32.14286"
+       width="59.285717"
+       id="rect4250-0-2-3"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7"
+       y="-127.73854"
+       x="1261.4648"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-127.73854"
+         x="1261.4648"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-112.73854"
+         x="1261.4648"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3"
+       d="m 1155.7982,-150.4793 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5"
+       y="-36.015533"
+       x="1164.3478"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-36.015533"
+         x="1164.3478"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <rect
+       y="-900.60431"
+       x="5880.127"
+       height="37.035179"
+       width="114.97284"
+       id="rect4152-1-42-2-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-0-5"
+       y="-883.34576"
+       x="5933.3213"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-883.34576"
+         x="5933.3213"
+         id="tspan4158-8-3-7-1-2-8"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-0-9-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-868.34576"
+         x="5933.3213"
+         sodipodi:role="line">Devis</tspan></text>
+    <rect
+       y="-685.61749"
+       x="5587.209"
+       height="37.035183"
+       width="172.70746"
+       id="rect4152-1-42-80-8-18"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-685.61749"
+       x="6068.9824"
+       height="37.035187"
+       width="166.99318"
+       id="rect4152-1-42-7-5-88"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-2-0"
+       inkscape:connection-start="#rect4152-1-42-80-8-18"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5007-3"
+       d="m 5673.5627,-685.61749 0,-196.46923 h 206.5643"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7-5-88"
+       inkscape:connection-start="#rect4152-1-42-2-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5009-5"
+       d="m 5995.0998,-882.08672 h 157.3792 v 196.46923"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-849.2381"
+       x="5901.2354"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-4-4"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-1"
+       d="m 5664.8688,-816.56157 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-59-8"
+       y="-705.14563"
+       x="5620.8345"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-4-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-705.14563"
+         x="5620.8345"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5056-68"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-690.14563"
+         x="5620.8345"
+         sodipodi:role="line">accepté</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-2"
+       y="-691.65723"
+       x="6209.248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5058-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-691.65723"
+         x="6209.248"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5062-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-676.65723"
+         x="6209.248"
+         sodipodi:role="line">refusé</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-4-1"
+       d="m 6145.9072,-818.88937 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-7-5"
+       y="-671.06293"
+       x="5672.1382"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-95"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-671.06293"
+         x="5674.5259"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-30"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-656.06293"
+         x="5672.1382"
+         sodipodi:role="line">du devis sur accepté</tspan></text>
+    <text
+       id="text4156-3-5-4-5-7-2-7"
+       y="-669.36823"
+       x="6152.292"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-9-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-669.36823"
+         x="6154.6797"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-0-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-654.36823"
+         x="6152.292"
+         sodipodi:role="line">du devis sur refusé</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-2-0"
+       inkscape:connection-start="#rect4152-1-42-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5523"
+       d="m 5935.394,-998.26976 1.8656,97.66545"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-844.617"
+       x="3887.2578"
+       height="37.035179"
+       width="114.97284"
+       id="rect4152-1-42-80-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-6"
+       d="m 3934.9039,-914.48777 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-3"
+       y="-830.93884"
+       x="3890.8694"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-830.93884"
+         x="3890.8694"
+         sodipodi:role="line">Prix fixe</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-62"
+       y="-835.73865"
+       x="5064.6104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-835.73865"
+         x="5064.6104"
+         sodipodi:role="line">Prix variable</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-967.69208"
+       x="4692.0386"
+       height="32.14286"
+       width="59.285717"
+       id="rect4250-0-2-7"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-3"
+       y="-828.65582"
+       x="3939.9165"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-828.65582"
+         x="3939.9165"
+         id="tspan4158-8-3-7-7"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-813.65582"
+         x="3939.9165"
+         sodipodi:role="line">commande</tspan></text>
+    <rect
+       y="-870.46503"
+       x="4944.9502"
+       height="37.035183"
+       width="114.97285"
+       id="rect4152-1-42-7-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-3"
+       d="m 4992.6981,-942.66357 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-01"
+       y="-854.27118"
+       x="4998.3979"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-854.27118"
+         x="4998.3979"
+         id="tspan4158-8-3-7-1-6"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-0-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-839.27118"
+         x="4998.3979"
+         sodipodi:role="line">Devis</tspan></text>
+    <rect
+       y="-685.61749"
+       x="4661.1724"
+       height="37.035187"
+       width="170.68716"
+       id="rect4152-1-42-80-8-1-2"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="-685.61749"
+       x="5144.9658"
+       height="37.035191"
+       width="164.97289"
+       id="rect4152-1-42-7-5-8-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-791.03046"
+       x="4975.1982"
+       height="32.142868"
+       width="59.285725"
+       id="rect4250-0-2-4-1-9"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-7"
+       d="m 4738.832,-758.35377 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-59-9-7"
+       y="-665.67847"
+       x="4694.7979"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-4-9-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-665.67847"
+         x="4694.7979"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5056-6-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-650.67847"
+         x="4694.7979"
+         sodipodi:role="line">accepté</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-6-6"
+       y="-652.18994"
+       x="5283.2114"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5058-4-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-652.18994"
+         x="5283.2114"
+         sodipodi:role="line">Devis</tspan><tspan
+         id="tspan5062-7-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-637.18994"
+         x="5283.2114"
+         sodipodi:role="line">refusé</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-4-9-0"
+       d="m 5219.8704,-760.68167 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-5-7-4-8"
+       y="-669.42377"
+       x="4750.1416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-7-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-669.42377"
+         x="4752.5293"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-3-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-654.42377"
+         x="4750.1416"
+         sodipodi:role="line">du devis sur accepté</tspan></text>
+    <text
+       id="text4156-3-5-4-5-7-2-4-4"
+       y="-669.74933"
+       x="5226.2554"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-0-0-9-3-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-669.74933"
+         x="5228.6431"
+         sodipodi:role="line">Positionner le statut </tspan><tspan
+         id="tspan5087-0-2-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-654.74933"
+         x="5226.2554"
+         sodipodi:role="line">du devis sur refusé</tspan></text>
+    <rect
+       y="-175.0621"
+       x="3878.5894"
+       height="37.035183"
+       width="143.54428"
+       id="rect4152-1-42-80-9-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-1"
+       y="-159.43002"
+       x="3947.4897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4547-0-6-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-159.43002"
+         x="3949.8774"
+         sodipodi:role="line">Classer </tspan><tspan
+         id="tspan5238-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-144.43002"
+         x="3947.4897"
+         sodipodi:role="line">commande livrée</tspan></text>
+    <rect
+       y="-9.197113"
+       x="3881.4465"
+       height="37.035187"
+       width="143.5443"
+       id="rect4152-1-42-80-9-0-17"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-80"
+       y="9.5416756"
+       x="3831.1812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="9.5416756"
+         x="3831.1812"
+         sodipodi:role="line">Commande classée livrée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-9"
+       d="m 3944.9835,-75.278811 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-0"
+       y="13.126862"
+       x="3950.3469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-13"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="13.126862"
+         x="3950.3469"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-6"
+       y="176.2892"
+       x="3657.9214"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="176.2892"
+         x="3657.9214"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0-2"
+       d="m 3736.0096,97.832149 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="183.66"
+       x="3672.8752"
+       height="37.035191"
+       width="143.54431"
+       id="rect4152-1-42-80-9-0-1-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8-4"
+       y="208.06998"
+       x="3743.1965"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="208.06998"
+         x="3743.1965"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="183.66"
+       x="4012.875"
+       height="37.035194"
+       width="252.11577"
+       id="rect4152-1-42-80-9-0-1-2-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="46.106232"
+       x="3913.5757"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-3-8"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7-5"
+       y="176.5442"
+       x="4236.0288"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="176.5442"
+         x="4236.0288"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="191.5442"
+         x="4236.0288"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3-3"
+       d="m 4130.3618,93.606209 17.1429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5-8"
+       y="208.06998"
+       x="4138.9116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="208.06998"
+         x="4138.9116"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-1"
+       inkscape:connection-start="#rect4152-1-42-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6149"
+       d="M 4664.1079,-1024.8685 H 3944.7442 V -844.617"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7-8"
+       inkscape:connection-start="#rect4152-1-42-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6151"
+       d="m 4779.0807,-1024.8685 h 223.3559 v 154.40347"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-17"
+       inkscape:connection-start="#rect4152-1-42-80-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path6157"
+       d="m 3950.6805,-138.02692 2.2192,128.829807"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2-5"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-17"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6159"
+       d="m 4024.9908,9.3204803 h 113.9421 V 183.66"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-17"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6161"
+       d="M 3881.4465,9.3204803 H 3744.6474 V 183.66"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-8-1-2"
+       inkscape:connection-start="#rect4152-1-42-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6163"
+       d="m 4944.9502,-851.94744 h -198.4343 v 166.32995"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-7-5-8-4"
+       inkscape:connection-start="#rect4152-1-42-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6165"
+       d="m 5059.923,-851.94744 h 167.5293 v 166.32995"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-176.70535"
+       x="1929.0731"
+       height="37.035187"
+       width="143.5443"
+       id="rect4152-1-42-80-9-0-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4"
+       y="-154.38138"
+       x="1997.9735"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-154.38138"
+         x="1997.9735"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-4"
+       y="173.61363"
+       x="1708.4052"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="173.61363"
+         x="1708.4052"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0-1"
+       d="m 1786.4932,134.60963 17.1428,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="220.43753"
+       x="1723.3589"
+       height="37.035191"
+       width="143.54431"
+       id="rect4152-1-42-80-9-0-1-6"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8-49"
+       y="244.84744"
+       x="1793.6803"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="244.84744"
+         x="1793.6803"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="220.43753"
+       x="2063.3586"
+       height="37.035194"
+       width="252.11577"
+       id="rect4152-1-42-80-9-0-1-2-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="92.883636"
+       x="1976.9166"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-3-0"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7-8"
+       y="173.86858"
+       x="2286.512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7-82"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="173.86858"
+         x="2286.512"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="188.86858"
+         x="2286.512"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3-1"
+       d="m 2180.8453,130.38369 17.1429,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5-1"
+       y="244.84744"
+       x="2189.3948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="244.84744"
+         x="2189.3948"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-3"
+       y="0.26835999"
+       x="1884.3301"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="0.26835999"
+         x="1884.3301"
+         sodipodi:role="line">Facture créée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-1"
+       d="m 1992.4181,-45.153081 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="34.611725"
+       x="1902.6324"
+       height="37.035191"
+       width="196.40146"
+       id="rect4152-1-42-80-9-0-5-2"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-1"
+       y="56.935638"
+       x="1998.6757"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="56.935638"
+         x="1998.6757"
+         sodipodi:role="line">Classer facturé le devis</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-2"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path6362"
+       d="m 2000.8442,-139.67017 -0.01,174.281895"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-6"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6364"
+       d="M 1902.6324,53.12932 H 1795.131 v 167.30821"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6366"
+       d="m 2099.0339,53.12932 h 90.3826 v 167.30821"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1"
+       y="-248.46841"
+       x="2639.0154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-248.46841"
+         x="2639.0154"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12"
+       d="m 2737.1036,-307.73411 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-263.6835"
+       x="2773.032"
+       height="37.035191"
+       width="143.54431"
+       id="rect4152-1-42-80-9-0-5-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15"
+       y="-241.35953"
+       x="2841.9324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-241.35953"
+         x="2841.9324"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-4-8"
+       y="103.71499"
+       x="2552.364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-9-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="103.71499"
+         x="2552.364"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0-1-2"
+       d="m 2630.4523,47.631532 h 17.1428"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="133.45944"
+       x="2567.3179"
+       height="37.035194"
+       width="143.54433"
+       id="rect4152-1-42-80-9-0-1-6-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8-49-1"
+       y="157.86935"
+       x="2637.6392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0-1-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="157.86935"
+         x="2637.6392"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="133.45944"
+       x="2907.3176"
+       height="37.035198"
+       width="252.11578"
+       id="rect4152-1-42-80-9-0-1-2-8-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="5.9056129"
+       x="2820.8755"
+       height="32.142868"
+       width="59.285725"
+       id="rect4250-0-2-3-0-2"
+       style="opacity:1;fill:none;fill-opacity:0.194915;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7-8-1"
+       y="103.96999"
+       x="3130.4709"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7-82-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="103.96999"
+         x="3130.4709"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422-0-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="118.96999"
+         x="3130.4709"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3-1-3"
+       d="m 3024.8044,43.405532 h 17.1429"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5-1-5"
+       y="157.86935"
+       x="3033.3538"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1-9-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="157.86935"
+         x="3033.3538"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-3-8"
+       y="-69.630287"
+       x="2728.2891"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-5-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-69.630287"
+         x="2728.2891"
+         sodipodi:role="line">Facture créée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-1-4"
+       d="M 2836.3772,-132.13127 H 2853.52"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-52.36636"
+       x="2746.5913"
+       height="37.035194"
+       width="196.40147"
+       id="rect4152-1-42-80-9-0-5-2-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-1-5"
+       y="-30.042385"
+       x="2842.6345"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-4-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-30.042385"
+         x="2842.6345"
+         sodipodi:role="line">Classer facturé le devis</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-2-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path6460"
+       d="m 2844.8031,-226.64831 -0.01,174.28195"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-6-0"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6462"
+       d="M 2746.5913,-33.848763 H 2639.0901 V 133.45944"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2-8-9"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6464"
+       d="m 2942.9928,-33.848763 h 90.3828 V 133.45944"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="7.5602722"
+       x="4678.251"
+       height="37.035191"
+       width="143.54431"
+       id="rect4152-1-42-80-9-0-5-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-4"
+       y="29.884247"
+       x="4747.1514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="29.884247"
+         x="4747.1514"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-4-0"
+       y="413.69424"
+       x="4466.4219"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-9-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="413.69424"
+         x="4466.4219"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0-1-1"
+       d="m 4535.6704,318.8753 17.1428,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="404.70322"
+       x="4472.5366"
+       height="37.035194"
+       width="143.54433"
+       id="rect4152-1-42-80-9-0-1-6-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8-49-8"
+       y="429.11313"
+       x="4542.8579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0-1-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="429.11313"
+         x="4542.8579"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="404.70322"
+       x="4812.5366"
+       height="37.035198"
+       width="252.11578"
+       id="rect4152-1-42-80-9-0-1-2-8-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="277.14938"
+       x="4726.0942"
+       height="32.142868"
+       width="59.285725"
+       id="rect4250-0-2-3-0-3"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7-8-7"
+       y="413.77036"
+       x="5035.6899"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7-82-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="413.77036"
+         x="5035.6899"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422-0-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="428.77036"
+         x="5035.6899"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3-1-8"
+       d="m 4930.0226,314.64936 17.1429,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5-1-4"
+       y="429.11313"
+       x="4938.5728"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1-9-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="429.11313"
+         x="4938.5728"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-3-80"
+       y="240.17006"
+       x="4633.5078"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-5-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="240.17006"
+         x="4633.5078"
+         sodipodi:role="line">Facture créée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-1-3"
+       d="m 4741.5954,139.11257 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="218.87741"
+       x="4651.8101"
+       height="37.035194"
+       width="196.40147"
+       id="rect4152-1-42-80-9-0-5-2-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-1-57"
+       y="241.20132"
+       x="4747.8535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-4-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="241.20132"
+         x="4747.8535"
+         sodipodi:role="line">Classer facturé le devis</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-2-9"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path6362-4"
+       d="m 4750.0221,44.595463 -0.01,174.281947"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-6-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6364-6"
+       d="M 4651.8101,237.39501 H 4544.3088 V 404.70322"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2-8-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6366-5"
+       d="m 4848.2115,237.39501 h 90.383 v 167.30821"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-95.159637"
+       x="5609.4224"
+       height="37.035191"
+       width="143.54431"
+       id="rect4152-1-42-80-9-0-5-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-5"
+       y="-72.835663"
+       x="5678.3228"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-72.835663"
+         x="5678.3228"
+         sodipodi:role="line">Créer facture</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-4-7"
+       y="329.63989"
+       x="5388.7544"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-9-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="329.63989"
+         x="5388.7544"
+         sodipodi:role="line">Paiement reçu</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-8-0-1-8"
+       d="m 5466.8418,216.1554 17.1428,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="301.98334"
+       x="5403.708"
+       height="37.035194"
+       width="143.54433"
+       id="rect4152-1-42-80-9-0-1-6-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-8-49-86"
+       y="326.39325"
+       x="5474.0293"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-0-1-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="326.39325"
+         x="5474.0293"
+         sodipodi:role="line">Saisir réglement</tspan></text>
+    <rect
+       y="301.98334"
+       x="5743.708"
+       height="37.035198"
+       width="252.11578"
+       id="rect4152-1-42-80-9-0-1-2-8-6"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="174.42944"
+       x="5657.2656"
+       height="32.142868"
+       width="59.285725"
+       id="rect4250-0-2-3-0-1"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-0-8-7-8-4"
+       y="329.8949"
+       x="5966.8613"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-1-6-7-82-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="329.8949"
+         x="5966.8613"
+         sodipodi:role="line">Paiement non reçu</tspan><tspan
+         id="tspan5422-0-64"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="344.8949"
+         x="5966.8613"
+         sodipodi:role="line">dans les délais</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-7-3-1-5"
+       d="m 5861.1939,211.92946 17.1429,0"
+       style="fill:#ffaaaa;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-5-1-8"
+       y="326.39325"
+       x="5869.7441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-1-9-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;fill:#000000"
+         y="326.39325"
+         x="5869.7441"
+         sodipodi:role="line">Réaliser la procédure de relance</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-3-1"
+       y="156.2946"
+       x="5564.6792"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-5-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="156.2946"
+         x="5564.6792"
+         sodipodi:role="line">Facture créée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-1-39"
+       d="m 5672.7667,36.392669 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="116.15753"
+       x="5582.9814"
+       height="37.035194"
+       width="196.40147"
+       id="rect4152-1-42-80-9-0-5-2-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-1-58"
+       y="138.48145"
+       x="5679.0249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-4-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="138.48145"
+         x="5679.0249"
+         sodipodi:role="line">Classer facturé le devis</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-2-4"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path6362-9"
+       d="m 5681.1934,-58.124447 -0.01,174.281977"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-6-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6364-9"
+       d="M 5582.9814,134.67513 H 5475.4802 V 301.98334"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-1-2-8-6"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path6366-53"
+       d="m 5779.3829,134.67513 h 90.383 v 167.30821"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-675.81927"
+       x="806.14594"
+       height="37.035179"
+       width="114.97284"
+       id="rect4152-1-42-80-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0"
+       y="-659.85809"
+       x="858.80463"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-659.85809"
+         x="858.80463"
+         id="tspan4158-8-3-7-9"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-644.85809"
+         x="858.80463"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-506.19327"
+       x="1831.4658"
+       height="37.035183"
+       width="114.97285"
+       id="rect4152-1-42-80-4-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-9"
+       y="-490.23209"
+       x="1884.1245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-490.23209"
+         x="1884.1245"
+         id="tspan4158-8-3-7-9-0"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-475.23209"
+         x="1884.1245"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-622.79266"
+       x="3043.7898"
+       height="37.035194"
+       width="159.25861"
+       id="rect4152-1-42-80-9-0-5-8-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15"
+       y="-599.21954"
+       x="3126.3772"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-599.21954"
+         x="3126.3772"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-729.68073"
+       x="2813.0767"
+       height="32.14286"
+       width="59.285717"
+       id="rect4250-0-2-6"
+       style="opacity:1;fill:none;fill-opacity:0.194915;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28"
+       y="-625.15527"
+       x="2695.6694"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-625.15527"
+         x="2695.6694"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74"
+       d="m 2733.7246,-684.30981 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0"
+       y="-621.53503"
+       x="3169.5581"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-621.53503"
+         x="3169.5581"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7"
+       d="m 3114.3887,-688.35061 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-464.92841"
+       x="3007.8174"
+       height="37.035198"
+       width="232.11575"
+       id="rect4152-1-42-80-9-0-5-8-4-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4"
+       inkscape:connector-curvature="3"
+       inkscape:connector-type="polyline"
+       id="path4751"
+       d="m 3123.4727,-585.75747 0.3491,120.82906"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8"
+       y="-458.50833"
+       x="3229.1162"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-458.50833"
+         x="3229.1162"
+         sodipodi:role="line">Date de livraison passé</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7"
+       d="m 3115.3756,-526.52921 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2"
+       y="-441.94708"
+       x="3127.6702"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-441.94708"
+         x="3127.6702"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4803"
+       d="m 3123.8753,-427.89321 v 182.72731 h -207.299"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-568.93268"
+       x="2832.3801"
+       height="49.315453"
+       width="35.042053"
+       id="rect4250-0-4-9"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7"
+       y="-279.85037"
+       x="3215.0566"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-279.85037"
+         x="3215.0566"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9"
+       d="m 3114.1733,-347.58691 h 17.1428"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1-2"
+       y="-484.64404"
+       x="754.51398"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-484.64404"
+         x="754.51398"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12-7"
+       d="m 852.60221,-505.77237 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-736.54523"
+       x="1160.7172"
+       height="37.035198"
+       width="159.25862"
+       id="rect4152-1-42-80-9-0-5-8-4-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-5"
+       y="-712.97198"
+       x="1243.3046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-712.97198"
+         x="1243.3046"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-4"
+       y="-777.01611"
+       x="812.59662"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-777.01611"
+         x="812.59662"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-1"
+       d="m 850.65178,-798.06227 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-5"
+       y="-773.396"
+       x="1286.4854"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-773.396"
+         x="1286.4854"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-3"
+       d="m 1231.3159,-802.10307 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-578.68097"
+       x="1124.7448"
+       height="37.035202"
+       width="232.11577"
+       id="rect4152-1-42-80-9-0-5-8-4-0-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-4"
+       y="-610.36914"
+       x="1346.0435"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-2"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-610.36914"
+         x="1346.0435"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-6"
+       d="m 1232.3028,-640.28167 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2-9"
+       y="-555.69952"
+       x="1244.5975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-555.69952"
+         x="1244.5975"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-850.53522"
+       x="948.28143"
+       height="49.315456"
+       width="35.042057"
+       id="rect4250-0-4-9-1"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7-4"
+       y="-431.71118"
+       x="1331.9839"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-431.71118"
+         x="1331.9839"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9-5"
+       d="m 1231.1005,-461.33937 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path4935"
+       d="m 1240.4,-699.51003 0.3491,120.82906"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4937"
+       d="m 1240.8026,-541.64577 0,141.01581 h -193.2322"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-521.78986"
+       x="953.80884"
+       height="49.31546"
+       width="35.042061"
+       id="rect4250-0-4-9-1-2"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1-2-7"
+       y="-295.64209"
+       x="1785.2284"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2-1-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-295.64209"
+         x="1785.2284"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12-7-6"
+       d="m 1883.3166,-337.62945 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-568.4024"
+       x="2191.4316"
+       height="37.035202"
+       width="159.25864"
+       id="rect4152-1-42-80-9-0-5-8-4-9-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-5-4"
+       y="-544.82916"
+       x="2274.0188"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-6-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-544.82916"
+         x="2274.0188"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-4-8"
+       y="-588.01416"
+       x="1843.311"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-9-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-588.01416"
+         x="1843.311"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-1-6"
+       d="m 1881.3662,-629.91937 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-5-4"
+       y="-584.39404"
+       x="2317.1995"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-5-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-584.39404"
+         x="2317.1995"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-3-6"
+       d="m 2262.0303,-633.96017 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-410.53818"
+       x="2155.4592"
+       height="37.035206"
+       width="232.11578"
+       id="rect4152-1-42-80-9-0-5-8-4-0-7-7"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-4-3"
+       y="-421.36719"
+       x="2376.7576"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-2-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-421.36719"
+         x="2376.7576"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-6-2"
+       d="m 2263.0172,-472.13877 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2-9-0"
+       y="-387.55667"
+       x="2275.3118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2-1-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-387.55667"
+         x="2275.3118"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-700.96381"
+       x="1978.9958"
+       height="49.31546"
+       width="35.042061"
+       id="rect4250-0-4-9-1-9"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7-4-8"
+       y="-242.70924"
+       x="2362.698"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4-5-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-242.70924"
+         x="2362.698"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9-5-0"
+       d="m 2261.8149,-293.19645 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:connector-avoid="true"
+       y="-353.647"
+       x="1984.5233"
+       height="49.315464"
+       width="35.042065"
+       id="rect4250-0-4-9-1-2-0"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0-7-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-9-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5052"
+       d="m 2271.1145,-531.3672 0.3491,120.82902"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0-7-7"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5054"
+       d="m 2271.5171,-373.50297 v 215.31521 h -198.8997"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1-3"
+       y="-270.16656"
+       x="3732.9116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-270.16656"
+         x="3732.9116"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12-2"
+       d="m 3831.0001,-351.56992 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-666.62836"
+       x="4137.6865"
+       height="37.035198"
+       width="159.25862"
+       id="rect4152-1-42-80-9-0-5-8-4-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-1"
+       y="-643.05536"
+       x="4220.2739"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-643.05536"
+         x="4220.2739"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-773.51654"
+       x="3906.9731"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-6-8"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-7"
+       y="-646.85352"
+       x="3789.5657"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-646.85352"
+         x="3789.5657"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-3"
+       d="m 3827.6211,-728.14567 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-0"
+       y="-643.23315"
+       x="4263.4546"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-55"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-643.23315"
+         x="4263.4546"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-8"
+       d="m 4208.2852,-732.18647 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-508.76407"
+       x="4101.7139"
+       height="37.035202"
+       width="232.11577"
+       id="rect4152-1-42-80-9-0-5-8-4-0-6"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-49"
+       y="-477.37085"
+       x="4353.9487"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-477.37085"
+         x="4353.9487"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-7"
+       d="m 4209.2721,-570.36507 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2-0"
+       y="-485.78287"
+       x="4221.5669"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-485.78287"
+         x="4221.5669"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-454.90421"
+       x="3926.6792"
+       height="49.315456"
+       width="35.042057"
+       id="rect4250-0-4-9-9"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7-5"
+       y="-301.54865"
+       x="4308.9536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-301.54865"
+         x="4308.9536"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9-8"
+       d="m 4208.0698,-391.42272 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1-4"
+       y="-81.487015"
+       x="4539.4556"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2-14"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-81.487015"
+         x="4539.4556"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12-6"
+       d="m 4637.5437,-179.21262 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-494.27115"
+       x="4944.23"
+       height="37.035198"
+       width="159.25862"
+       id="rect4152-1-42-80-9-0-5-8-4-88"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-17"
+       y="-470.69815"
+       x="5026.8174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-470.69815"
+         x="5026.8174"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-601.15936"
+       x="4713.5171"
+       height="32.142864"
+       width="59.285721"
+       id="rect4250-0-2-6-3"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-45"
+       y="-458.17407"
+       x="4596.1094"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-458.17407"
+         x="4596.1094"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-8"
+       d="m 4634.1647,-555.78837 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-58"
+       y="-454.55359"
+       x="5069.998"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-14"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-454.55359"
+         x="5069.998"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-5"
+       d="m 5014.8288,-559.82917 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-336.40689"
+       x="4908.2578"
+       height="37.035202"
+       width="232.11577"
+       id="rect4152-1-42-80-9-0-5-8-4-0-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-0"
+       y="-291.52704"
+       x="5129.5562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-291.52704"
+         x="5129.5562"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-0"
+       d="m 5015.8157,-398.00782 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2-4"
+       y="-313.42569"
+       x="5028.1104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-313.42569"
+         x="5028.1104"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-282.54703"
+       x="4733.2231"
+       height="49.315456"
+       width="35.042057"
+       id="rect4250-0-4-9-7"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7-2"
+       y="-112.86909"
+       x="5115.4966"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-112.86909"
+         x="5115.4966"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9-2"
+       d="m 5014.6134,-219.06542 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0-0"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-88"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path4783"
+       d="m 5023.9128,-457.23595 0.3494,120.82906"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-1"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4785"
+       d="M 5024.3157,-299.37169 V 26.077868 h -202.5204"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0-6"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path4793"
+       d="m 4217.3693,-629.59316 0.349,120.82909"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-4"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0-6"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4795"
+       d="m 4217.7718,-471.72887 v 315.18436 h -195.6382"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-3-48-1-4-7"
+       y="-69.289566"
+       x="5469.7432"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4469-4-2-8-4-2-14-7"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-69.289566"
+         x="5469.7432"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-4-7-6-12-6-9"
+       d="m 5567.8317,-185.84166 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-500.9003"
+       x="5874.5181"
+       height="37.035202"
+       width="159.25864"
+       id="rect4152-1-42-80-9-0-5-8-4-88-1"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-17-2"
+       y="-477.3273"
+       x="5957.1055"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-0-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-477.3273"
+         x="5957.1055"
+         sodipodi:role="line">Créer intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-607.78851"
+       x="5643.8052"
+       height="32.142868"
+       width="59.285725"
+       id="rect4250-0-2-6-3-9"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-45-9"
+       y="-445.97656"
+       x="5526.397"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-7-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-445.97656"
+         x="5526.397"
+         sodipodi:role="line">Produit</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-8-8"
+       d="m 5564.4527,-562.41747 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-58-0"
+       y="-442.35596"
+       x="6000.2856"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-14-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-442.35596"
+         x="6000.2856"
+         sodipodi:role="line">Service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-5-5"
+       d="m 5945.1168,-566.45827 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-343.03598"
+       x="5838.5459"
+       height="37.035206"
+       width="232.11578"
+       id="rect4152-1-42-80-9-0-5-8-4-0-0-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-0-2"
+       y="-279.32959"
+       x="6059.8438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-3-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-279.32959"
+         x="6059.8438"
+         sodipodi:role="line">Date de livraison passée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-0-8"
+       d="m 5946.1037,-404.63686 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-4-9-4-15-15-2-4-4"
+       y="-320.05478"
+       x="5958.3984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5238-8-15-6-1-2-3-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-320.05478"
+         x="5958.3984"
+         sodipodi:role="line">Classer traitée l'intervention</tspan></text>
+    <rect
+       inkscape:connector-avoid="true"
+       y="-289.17612"
+       x="5663.5112"
+       height="49.31546"
+       width="35.042061"
+       id="rect4250-0-4-9-7-0"
+       style="opacity:1;fill:none;fill-opacity:0.19491523;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="skewY(-1.1593565)"
+       id="text4156-3-6-6-1-42-5-6-28-0-8-7-2-3"
+       y="-100.67165"
+       x="6045.7842"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5062-6-4-1-4-0-1"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-100.67165"
+         x="6045.7842"
+         sodipodi:role="line">Intervention classée</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4351-6-9-9-74-7-7-9-2-2"
+       d="m 5944.9014,-225.69446 17.1428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-0-0-5"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-88-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path4783-4"
+       d="m 5954.2009,-463.8651 0.3494,120.82912"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-7"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-0-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4992"
+       d="M 5954.6038,-306.00077 V -76.642042 H 5752.9667"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4"
+       inkscape:connection-start="#rect4152-1-42-80-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4996"
+       d="M 904.02612,-400.62996 H 863.63235 V -638.7841"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80"
+       inkscape:connection-start="#rect4152-1-42-80-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path4998"
+       d="m 863.63235,-675.81927 0,-215.37255 h 47.76737"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-9"
+       inkscape:connection-start="#rect4152-1-42-80"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5000"
+       d="m 1026.3726,-891.19182 213.9739,0 v 154.64659"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-737.48004"
+       x="1351.5668"
+       height="37.035183"
+       width="114.97285"
+       id="rect4152-1-42-80-4-6"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-8"
+       y="-721.51886"
+       x="1404.2255"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-721.51886"
+         x="1404.2255"
+         id="tspan4158-8-3-7-9-2"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-38"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-706.51886"
+         x="1404.2255"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-6"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5026"
+       d="m 1319.9758,-718.46886 31.591,-0.17505"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-568.73004"
+       x="2381.2542"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-8-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-9-6"
+       y="-552.76886"
+       x="2433.9128"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-552.76886"
+         x="2433.9128"
+         id="tspan4158-8-3-7-9-0-4"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-7-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-537.76886"
+         x="2433.9128"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5053"
+       d="m 1929.0731,-158.18776 h -40.1209 v -310.97032"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-8-1"
+       inkscape:connection-start="#rect4152-1-42-80-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5055"
+       d="m 1888.9522,-506.19327 v -229.6609 h 23.7088"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-9-1"
+       inkscape:connection-start="#rect4152-1-42-80-8-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5057"
+       d="M 2083.3482,-735.85417 H 2271.061 V -568.4024"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-8-9"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-9-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5059"
+       d="m 2350.6903,-550.0404 30.5639,-0.0597"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-548.43707"
+       x="2682.9551"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-5-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-0-4"
+       y="-532.47589"
+       x="2735.6138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-532.47589"
+         x="2735.6138"
+         id="tspan4158-8-3-7-9-7-9"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-3-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-517.47589"
+         x="2735.6138"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-623.56708"
+       x="3229.8579"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-5-8"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-0-8"
+       y="-607.6059"
+       x="3282.5166"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-607.6059"
+         x="3282.5166"
+         id="tspan4158-8-3-7-9-7-4"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-3-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-592.6059"
+         x="3282.5166"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4"
+       inkscape:connection-start="#rect4152-1-42-80-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5097"
+       d="m 2928.7509,-768.55156 h 194.6683 l 0,145.7589"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-5-0"
+       inkscape:connection-start="#rect4152-1-42-80-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5099"
+       d="m 2758.0637,-768.55156 h -17.6221 v 220.11449"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8"
+       inkscape:connection-start="#rect4152-1-42-80-4-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5101"
+       d="m 2740.4416,-511.40189 v 266.23599 h 32.5904"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-5-8"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5103"
+       d="m 3203.0484,-604.65125 26.8095,-0.12665"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-567.08966"
+       x="3794.0359"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-7-0"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-7-4"
+       y="-551.12848"
+       x="3846.6943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-551.12848"
+         x="3846.6943"
+         id="tspan4158-8-3-7-9-6-1"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-6-4"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-536.12848"
+         x="3846.6943"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-666.52655"
+       x="4324.3662"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-7-02"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-7-1"
+       y="-650.56537"
+       x="4377.0249"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-650.56537"
+         x="4377.0249"
+         id="tspan4158-8-3-7-9-6-16"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-6-6"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-635.56537"
+         x="4377.0249"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-1"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5141"
+       d="M 4217.3158,-666.62836 V -826.09941 H 4002.2307"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-7-0"
+       inkscape:connection-start="#rect4152-1-42-80-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5143"
+       d="m 3887.2578,-826.09941 h -35.7355 v 259.00975"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-4"
+       inkscape:connection-start="#rect4152-1-42-80-4-7-0"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5145"
+       d="m 3851.5223,-530.05447 v 373.50996 h 27.0671"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-7-02"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-8"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5147"
+       d="m 4296.9451,-648.06149 27.4211,0.017"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-331.75552"
+       x="4575.1685"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-1-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-5-9"
+       y="-315.79434"
+       x="4627.8271"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-315.79434"
+         x="4627.8271"
+         id="tspan4158-8-3-7-9-8-2"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-62-3"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-300.79434"
+         x="4627.8271"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-494.16922"
+       x="5143.0635"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-1-4"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-5-1"
+       y="-478.20804"
+       x="5195.7222"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-478.20804"
+         x="5195.7222"
+         id="tspan4158-8-3-7-9-8-8"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-62-0"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-463.20804"
+         x="5195.7222"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-1-5"
+       inkscape:connection-start="#rect4152-1-42-80-8-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5185"
+       d="m 4661.1724,-667.0999 h -28.5175 v 335.34438"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-88"
+       inkscape:connection-start="#rect4152-1-42-80-8-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5187"
+       d="m 4831.8595,-667.0999 h 191.9998 v 172.82875"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-1-4"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-88"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5189"
+       d="m 5103.4886,-475.70762 39.5749,0.0228"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-1"
+       inkscape:connection-start="#rect4152-1-42-80-4-1-5"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5191"
+       d="M 4632.6549,-294.72034 V 26.077868 h 45.5961"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-478.7012"
+       x="5516.5044"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-10-9"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-07-1"
+       y="-462.74002"
+       x="5569.1631"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-462.74002"
+         x="5569.1631"
+         id="tspan4158-8-3-7-9-88-7"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-2-8"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-447.74002"
+         x="5569.1631"
+         sodipodi:role="line">événement</tspan></text>
+    <rect
+       y="-501.90323"
+       x="6053.4634"
+       height="37.035187"
+       width="114.97285"
+       id="rect4152-1-42-80-4-10-3"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-5-4-0-07-5"
+       y="-485.94205"
+       x="6106.1221"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-485.94205"
+         x="6106.1221"
+         id="tspan4158-8-3-7-9-88-9"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4547-0-61-2-9"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle"
+         y="-470.94205"
+         x="6106.1221"
+         sodipodi:role="line">événement</tspan></text>
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-10-9"
+       inkscape:connection-start="#rect4152-1-42-80-8-18"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5229"
+       d="m 5587.209,-667.0999 h -13.2182 v 188.3987"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-8-4-88-1"
+       inkscape:connection-start="#rect4152-1-42-80-8-18"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5231"
+       d="m 5759.9164,-667.0999 h 194.231 v 166.1996"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-9-0-5-7"
+       inkscape:connection-start="#rect4152-1-42-80-4-10-9"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="orthogonal"
+       id="path5233"
+       d="m 5573.9908,-441.66602 v 365.023978 h 35.4316"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connection-end="#rect4152-1-42-80-4-10-3"
+       inkscape:connection-start="#rect4152-1-42-80-9-0-5-8-4-88-1"
+       inkscape:connector-curvature="0"
+       inkscape:connector-type="polyline"
+       id="path5235"
+       d="m 6033.7767,-482.89202 19.6867,-0.12592"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       y="-2142.877"
+       x="2961.0098"
+       height="190.03491"
+       width="1860.5745"
+       id="rect5237"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(1314.6246,-2186.0054)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5239"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5241"><rect
+           y="113.8392"
+           x="1670.5398"
+           height="462.52075"
+           width="1862.7344"
+           id="rect5243" /></flowRegion><flowPara
+         style="font-size:60px;line-height:1"
+         id="flowPara5245">Processus vente - produit service - événement - intervention</flowPara></flowRoot>
+    <rect
+       y="-1061.0698"
+       x="3042.5273"
+       height="37.035175"
+       width="131.13527"
+       id="rect4152-1-42-2-8-5"
+       style="opacity:1;fill:#098eff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4156-3-56-2"
+       y="-1043.3523"
+       x="3107.1431"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1px"
+         y="-1043.3523"
+         x="3107.1431"
+         id="tspan4158-8-5-3"
+         sodipodi:role="line">Créer</tspan><tspan
+         id="tspan4893-5"
+         style="font-size:15px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1px"
+         y="-1028.3523"
+         x="3107.1431"
+         sodipodi:role="line">produit/service</tspan></text>
+  </g>
+</svg>
